@@ -1,9 +1,16 @@
-<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect x="0.00292969" width="24.8548" height="24" fill="url(#pattern0)"/>
-<defs>
-<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
-<use xlink:href="#image0" transform="translate(0 -0.0178082) scale(0.00666667 0.00690411)"/>
-</pattern>
-<image id="image0" width="150" height="150" xlink:href="data:image/png;base64,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"/>
-</defs>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FF5101;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M505.7,475.6L360.1,330c28.2-34.8,45.2-79.1,45.2-127.3C405.3,90.9,314.4,0,202.7,0S0,90.9,0,202.7
+			s90.9,202.7,202.7,202.7c48.2,0,92.5-17,127.3-45.2l145.6,145.6c4.2,4.2,9.6,6.3,15.1,6.3s10.9-2.1,15.1-6.3
+			C514.1,497.4,514.1,483.9,505.7,475.6z M202.7,362.7c-88.2,0-160-71.8-160-160s71.8-160,160-160s160,71.8,160,160
+			S290.9,362.7,202.7,362.7z"/>
+	</g>
+</g>
 </svg>

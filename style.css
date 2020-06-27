@@ -2891,3 +2891,37 @@ h1 {
     font-size: 15px;
   }
 }
+
+@media (max-width: 318px) {
+  .product-page .right-block {
+    margin-bottom: 25px;
+   }
+   .product-page .right-block .links {
+    margin-bottom: 20px;
+   }
+  .product-page .right-block button {
+    margin: 0;
+    position: static;
+  }
+  .product-page .right-block .delivery {
+    position: static;
+    width: 65%;
+  }
+  .product-page .right-block .price {
+    margin-bottom: -7px;
+  }
+
+  .footer .contacts,
+  .footer nav {
+    font-size: 11px;
+  }
+  .footer nav {
+    text-align: left;
+    margin-top: 12px;
+   }
+  .footer .contacts p:nth-child(2),
+  .footer .contacts p:nth-child(3),
+  .footer .contacts p:nth-child(4) {
+    background-size: 11px;
+  }
+}
